@@ -1,0 +1,1 @@
+module.exports = 'SMS--------V2------Demo'.toString('utf8');

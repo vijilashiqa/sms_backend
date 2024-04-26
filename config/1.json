@@ -1,0 +1,14 @@
+{
+  "mysqltesting": {
+    "Server_Name": "TESTING",
+    "public_ip": "103.231.217.170",
+    "host": "192.168.32.251",
+    "user": "root",
+    "password": "apptestDB321,",
+    "database": "smsv2",
+    "database1": "geo",
+    "rootuser": "root",
+    "rootpassword": "apptest321,",
+    "ssh": "22"
+  }
+  }
